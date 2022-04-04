@@ -1,4 +1,4 @@
-name: custom_date
+name: date_type
 description: Contains code to deal with only date objects without time to support swagger.
 version: 1.0.0
 homepage: https://github.com/sridhar562345/date.git
